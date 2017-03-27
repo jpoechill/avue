@@ -12,16 +12,16 @@
         <div class="row">
           <div class="col-md-12 link-parent">
             <ul class="link-group">
-              <li><router-link to="/components" active-class="active" exact>Components & Libraries</router-link></li>
-              <li><router-link to="/devtools" active-class="active" exact>Dev Tools</router-link></li>
-              <li><router-link to="/frameworks" active-class="active" exact>Frameworks</router-link></li>
-              <li><router-link to="/integrations" active-class="active" exact>Integrations</router-link></li>
-              <li><router-link to="/projects" active-class="active" exact>Projects</router-link></li>
-              <li><router-link to="/resources" active-class="active" exact>Resources</router-link></li>
-              <li><router-link to="/uilayouts" active-class="active" exact>UI Layouts</router-link></li>
-              <li><router-link to="/uiutilities" active-class="active" exact>UI Utilities</router-link></li>
-              <li><router-link to="/utilities" active-class="active" exact>Utilities</router-link></li>
-              <li><router-link to="/scaffold" active-class="active" exact>Scaffold</router-link></li>
+              <li><router-link to="/components" active-class="active" exact>Components & Libraries (94)</router-link></li>
+              <li><router-link to="/devtools" active-class="active" exact>Dev Tools (24)</router-link></li>
+              <!-- <li><router-link to="/frameworks" active-class="active" exact>Frameworks (16)</router-link></li> -->
+              <li><router-link to="/integrations" active-class="active" exact>Integrations (18)</router-link></li>
+              <li><router-link to="/projects" active-class="active" exact>Projects (114)</router-link></li>
+              <li><router-link to="/resources" active-class="active" exact>Resources (137)</router-link></li>
+              <!-- <li><router-link to="/uilayouts" active-class="active" exact>UI Layouts (7)</router-link></li> -->
+              <li><router-link to="/uiutilities" active-class="active" exact>UI Utilities (39)</router-link></li>
+              <li><router-link to="/utilities" active-class="active" exact>Utilities (47)</router-link></li>
+              <!-- <li><router-link to="/scaffold" active-class="active" exact>Scaffold (14)</router-link></li> -->
             </ul>
           </div>
         </div>
@@ -83,7 +83,7 @@ export default {
 }
 
 li {
-  font-size: 15px;
+  font-size: 14px;
   position: relative;
   float: left;
   display:block;

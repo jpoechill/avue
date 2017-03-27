@@ -1263,7 +1263,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuefire-quickstart - Documented Firebase integration w/ webpack and eslint, by @sejr.'
+                'title': 'vuefire-quickstart - Documented Firebase integration w/ webpack and eslint, by @sejr'
               },
               {
                 'description': '',
@@ -1343,7 +1343,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'aspnetcore-Vue-starter A VueJS 2 starter template as part of an asp.net MVC dotnetcore project. This template includes the VueJS client app and a backend API controller.'
+                'title': 'aspnetcore-Vue-starter A VueJS 2 starter template as part of an asp.net MVC dotnetcore project. This template includes the VueJS client app and a backend API controller'
               },
               {
                 'description': '',
@@ -1393,7 +1393,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuejs-d3 examples how to use d3 for visualisations.'
+                'title': 'vuejs-d3 examples how to use d3 for visualisations'
               },
               {
                 'description': '',
@@ -1419,292 +1419,292 @@
             'shortname': 'resources'
           },
           {
-            'category': 'Projects',
+            'category': 'projects',
             'items': [
               {
-                'description': '',
+                'description': 'Modular and lightweight CMS built with Symfony components and Vue.js',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'PageKit - Modular and lightweight CMS built with Symfony components and Vue.js.'
+                'title': 'PageKit'
               },
               {
-                'description': '',
+                'description': 'Compare npm packages and spot download trends',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'npmcharts.com - Compare npm packages and spot download trends.'
+                'title': 'Npmcharts.com'
               },
               {
-                'description': '',
+                'description': 'A personal music streaming server that works',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Koel - A personal music streaming server that works.'
+                'title': 'Koel'
               },
               {
-                'description': '',
+                'description': 'Simple RSS Reader made using atom electron and vue.js',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'RSS Reader - Simple RSS Reader made using atom electron and vue.js.'
+                'title': 'RSS Reader'
               },
               {
-                'description': '',
+                'description': 'A simple music player built by electron and vue',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Gokotta - A simple music player built by electron and vue.'
+                'title': 'Gokotta'
               },
               {
-                'description': '',
+                'description': 'An admin portal based on AdminLTE with vue.js integration',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'CoPilot - An admin portal based on AdminLTE with vue.js integration.'
+                'title': 'CoPilot'
               },
               {
-                'description': '',
+                'description': 'A simple tool for doing collaborative retrospectives in agile teams',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Retrospectify - A simple tool for doing collaborative retrospectives in agile teams.'
+                'title': 'Retrospectify'
               },
               {
-                'description': '',
+                'description': 'Cms based on mongodb, nodejs, koa, vue and more',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'jade-press - Cms based on mongodb, nodejs, koa, vue and more.'
+                'title': 'jade-press'
               },
               {
-                'description': '',
+                'description': 'Organize Your GitHub Stars With Ease',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'astralapp - Organize Your GitHub Stars With Ease.'
+                'title': 'astralapp'
               },
               {
-                'description': '',
+                'description': 'An Elegant Markdown Editor',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'EME - An Elegant Markdown Editor.'
+                'title': 'EME'
               },
               {
-                'description': '',
+                'description': 'A spa which can help you check your github in a better way',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Github-explorer - A spa which can help you check your github in a better way.'
+                'title': 'Github-explorer'
               },
               {
-                'description': '',
+                'description': 'Start your dev servers from your browser and get local domains in seconds',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Hotel - Start your dev servers from your browser and get local domains in seconds.'
+                'title': 'Hotel'
               },
               {
-                'description': '',
+                'description': 'A Twitter client written with modern web technologies',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Surfbird - A Twitter client written with modern web technologies.'
+                'title': 'Surfbird'
               },
               {
-                'description': '',
+                'description': 'A math-aware search engine',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Approach0 - A math-aware search engine.'
+                'title': 'Approach0'
               },
               {
-                'description': '',
+                'description': 'Self Hosted Movie, Series and Anime Watch List',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Flox - Self Hosted Movie, Series and Anime Watch List.'
+                'title': 'Flox'
               },
               {
-                'description': '',
+                'description': 'A game for identifying JavaScript tools and libraries',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'JavaScript Guessing Game - A game for identifying JavaScript tools and libraries.'
+                'title': 'JavaScript Guessing Game'
               },
               {
-                'description': '',
+                'description': 'A blog based on GitHub pages by Vue.js 2 + Webpack 2',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-ghpages-blog - A blog based on GitHub pages by Vue.js 2 + Webpack 2.'
+                'title': 'vue-ghpages-blog'
               },
               {
-                'description': '',
+                'description': 'Blog platform, built with Laravel and Vue.js',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Vuedo - Blog platform, built with Laravel and Vue.js.'
+                'title': 'Vuedo'
               },
               {
-                'description': '',
+                'description': 'A Vue.js project for music',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-music163 - A Vue.js project for music.'
+                'title': 'vue-music163'
               },
               {
-                'description': '',
+                'description': 'Real-time collaboration tool, it combines Pomodoro Technique with a team status share board',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Tomato5 - Real-time collaboration tool, it combines Pomodoro Technique with a team status share board.'
+                'title': 'Tomato5'
               },
               {
-                'description': '',
+                'description': 'Tabs Manager for Google Chrome',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Peek-a-tab - Tabs Manager for Google Chrome.'
+                'title': 'Peek-a-tab'
               },
               {
-                'description': '',
+                'description': 'A service which provides simple access to thousands of video tutorials on web developing and programming',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Web Learn - A service which provides simple access to thousands of video tutorials on web developing and programming.'
+                'title': 'Web Learn'
               },
               {
-                'description': '',
+                'description': 'A tool to convert CSV, TSV to/from JSON',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'ExcelJSON - A tool to convert CSV, TSV to/from JSON.'
+                'title': 'ExcelJSON'
               },
               {
-                'description': '',
+                'description': 'A material blog built with Laravel5.3 and Vue2.x',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Materialize-blog - A material blog built with Laravel5.3 and Vue2.x.'
+                'title': 'Materialize-blog'
               },
               {
-                'description': '',
+                'description': 'Generate vue single file component on browser',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'VueCompomnentGenerator - Generate vue single file component on browser.'
+                'title': 'VueCompomnentGenerator'
               },
               {
-                'description': '',
+                'description': 'News for web designers and developers aggregated from multiple sources (Reddit, Hacker News and Prominent Blogs)',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'SDR News - News for web designers and developers aggregated from multiple sources (Reddit, Hacker News and Prominent Blogs).'
+                'title': 'SDR News'
               },
               {
-                'description': '',
+                'description': 'Open source blog built with Laravel and Vue.js',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'PJ Blog - Open source blog built with Laravel and Vue.js.'
+                'title': 'PJ Blog'
               },
               {
-                'description': '',
+                'description': 'Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Lulumi-browser - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.'
+                'title': 'Lulumi-browser'
               },
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1712,29 +1712,29 @@
                 'title': 'vue-wordpress-pwa'
               },
               {
-                'description': '',
+                'description': 'Browse and test a REST API described with the OpenAPI 3.0 Specification',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'OpenAPI 3 viewer - Browse and test a REST API described with the OpenAPI 3.0 Specification'
+                'title': 'OpenAPI 3 viewer'
               },
               {
-                'description': '',
+                'description': 'A collection of UI controls with VueJS support',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Wijmo - A collection of UI controls with VueJS support.'
+                'title': 'Wijmo'
               },
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1744,7 +1744,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1754,7 +1754,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1764,7 +1764,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1774,7 +1774,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1784,7 +1784,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1794,7 +1794,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1804,7 +1804,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1814,7 +1814,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1822,19 +1822,19 @@
                 'title': 'Portfolio Site'
               },
               {
-                'description': '',
+                'description': 'Mistake-free writing service',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Grammarly - Mistake-free writing service.'
+                'title': 'Grammarly'
               },
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1842,19 +1842,19 @@
                 'title': 'Laravist'
               },
               {
-                'description': '',
+                'description': 'An app aimed for personal trainers and their clients',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Atiiv - An app aimed for personal trainers and their clients.'
+                'title': 'Atiiv'
               },
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1862,39 +1862,39 @@
                 'title': 'Statamic'
               },
               {
-                'description': '',
+                'description': 'A tool to report water dam level using the U.S. Geological Survey database',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Embalses! - A tool to report water dam level using the U.S. Geological Survey database.'
+                'title': 'Embalses!'
               },
               {
-                'description': '',
+                'description': 'A simple way for travellers to create a blog based on a Map',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'TravelMap - A simple way for travellers to create a blog based on a Map.'
+                'title': 'TravelMap'
               },
               {
-                'description': '',
+                'description': 'Custom shirt builder',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Proper Cloth Shirt Builder - Custom shirt builder.'
+                'title': 'Proper Cloth Shirt Builder'
               },
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1902,19 +1902,19 @@
                 'title': 'CheckIt'
               },
               {
-                'description': '',
+                'description': 'A browser extension which show notifications and news from reddit',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Reddit News - A browser extension which show notifications and news from reddit.'
+                'title': 'Reddit News'
               },
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1924,7 +1924,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1932,29 +1932,29 @@
                 'title': '小桃酱'
               },
               {
-                'description': '',
+                'description': 'Web app that plays randomly all top 50 songs from the soundcloud charts',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'cloudradioo - Web app that plays randomly all top 50 songs from the soundcloud charts'
+                'title': 'cloudradioo'
               },
               {
-                'description': '',
+                'description': 'Simple and beautiful notepad to Markdown with Vue.js and Local Storage API',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vNotes - Simple and beautiful notepad to Markdown with Vue.js and Local Storage API.'
+                'title': 'vNotes'
               },
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -1962,129 +1962,129 @@
                 'title': 'Open Function Computers'
               },
               {
-                'description': '',
+                'description': 'A webmail client written in Vue.js for Dermail, a mail systemn written in node.js',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Dermail - A webmail client written in Vue.js for Dermail, a mail systemn written in node.js.'
+                'title': 'Dermail'
               },
               {
-                'description': '',
+                'description': 'A patent search engine',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'octimine - A patent search engine.'
+                'title': 'octimine'
               },
               {
-                'description': '',
+                'description': 'A web based MySQL and PostgreSQL data browser and dashboard manager',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Draxed - A web based MySQL and PostgreSQL data browser and dashboard manager.'
+                'title': 'Draxed'
               },
               {
-                'description': '',
+                'description': 'A simple way to look up wikipedia articles near you. Or simply navigate to a place and find interesting wikipedia information. Responsive web app',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Leapspotleap - A simple way to look up wikipedia articles near you. Or simply navigate to a place and find interesting wikipedia information. Responsive web app.'
+                'title': 'Leapspotleap'
               },
               {
-                'description': '',
+                'description': 'A Personal blog. FE and CMS are in same vue SPA',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'X-SONGTAO - A Personal blog. FE and CMS are in same vue SPA.'
+                'title': 'X-SONGTAO'
               },
               {
-                'description': '',
+                'description': 'Film & events schedule SPA made with Vue & Laravel 5. Russian',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Cinemateka - Film & events schedule SPA made with Vue & Laravel 5. Russian.'
+                'title': 'Cinemateka'
               },
               {
-                'description': '',
+                'description': 'A Job Board and career platform operating in Iran',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Jobinja - A Job Board and career platform operating in Iran.'
+                'title': 'Jobinja'
               },
               {
-                'description': '',
+                'description': 'Show all Putian hostiptal information',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': '滚蛋吧！莆田系 - Show all Putian hostiptal information'
+                'title': '滚蛋吧！莆田系'
               },
               {
-                'description': '',
+                'description': 'Recruiting Platform',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Jobi : Recruiting Platform'
+                'title': 'Jobi : '
               },
               {
-                'description': '',
+                'description': 'Ecommerce website for high quality spices. Checkout, cart, the product detail page, and search are built using Vue. Checkout is a single page app written with Vue & Vuex',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'The Spice House - Ecommerce website for high quality spices. Checkout, cart, the product detail page, and search are built using Vue. Checkout is a single page app written with Vue & Vuex.'
+                'title': 'The Spice House'
               },
               {
-                'description': '',
+                'description': 'Webinar / Live events app',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Livestorm - Webinar / Live events app.'
+                'title': 'Livestorm'
               },
               {
-                'description': '',
+                'description': 'A technology services and solutions website',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Metric Loop - A technology services and solutions website.'
+                'title': 'Metric Loop'
               },
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2092,109 +2092,109 @@
                 'title': 'Holden'
               },
               {
-                'description': '',
+                'description': 'Online Training for Language Proficiency Tests',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Global-Exam - Online Training for Language Proficiency Tests'
+                'title': 'Global-Exam'
               },
               {
-                'description': '',
+                'description': 'A webapp that helps student better plan their courses (hobby project, not in affiliation with UCSC)',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'SlugSurvival - A webapp that helps student better plan their courses (hobby project, not in affiliation with UCSC).'
+                'title': 'SlugSurvival'
               },
               {
-                'description': '',
+                'description': 'A group decision making tool built using Vue.js, vue-sortable, Semantic UI and Zappa',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'FreePoll.Online - A group decision making tool built using Vue.js, vue-sortable, Semantic UI and Zappa.'
+                'title': 'FreePoll.Online'
               },
               {
-                'description': '',
+                'description': 'Track github project\'s new release on mac menubar using vue.js with electron',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'GitRelease - Track github project\'s new release on mac menubar using vue.js with electron.'
+                'title': 'GitRelease'
               },
               {
-                'description': '',
+                'description': 'Applications online flight bookings',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': '12BAY.VN - Applications online flight bookings.'
+                'title': '12BAY.VN'
               },
               {
-                'description': '',
+                'description': 'Playground for Rapid Frontend Experiments',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'PLAYCODE.IO - Playground for Rapid Frontend Experiments.'
+                'title': 'PLAYCODE.IO'
               },
               {
-                'description': '',
+                'description': 'A calendar app built with Vue.js, Vuex and server-side rendering',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Vue.js Calendar - A calendar app built with Vue.js, Vuex and server-side rendering.'
+                'title': 'Vue.js Calendar'
               },
               {
-                'description': '',
+                'description': 'Underground House Music Online Radio',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'The Void Radio - Underground House Music Online Radio.'
+                'title': 'The Void Radio'
               },
               {
-                'description': '',
+                'description': 'Shorten URLs with VueJS & Bitly API',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Bitly Vue - Shorten URLs with VueJS & Bitly API.'
+                'title': 'Bitly Vue'
               },
               {
-                'description': '',
+                'description': 'API Based/Decoupled CMS using VueJS for it\'s frontend',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Storyblok - API Based/Decoupled CMS using VueJS for it\'s frontend.'
+                'title': 'Storyblok'
               },
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2202,69 +2202,69 @@
                 'title': 'WizzAir'
               },
               {
-                'description': '',
+                'description': 'Guide to moving different platform/hosting sites to HTTPS',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Moving to HTTPS - Guide to moving different platform/hosting sites to HTTPS'
+                'title': 'Moving to HTTPS'
               },
               {
-                'description': '',
+                'description': 'Discover great books and bookshelves on different topics',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Booknshelf - Discover great books and bookshelves on different topics.'
+                'title': 'Booknshelf'
               },
               {
-                'description': '',
+                'description': 'Text-editor-like weekly planner',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Coypu - Text-editor-like weekly planner'
+                'title': 'Coypu'
               },
               {
-                'description': '',
+                'description': 'A real time display of top news activity on Hacker News',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Top HN - A real time display of top news activity on Hacker News'
+                'title': 'Top HN'
               },
               {
-                'description': '',
+                'description': 'Euronews is a multilingual news media service, headquartered in Lyon, France',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Euronews - Euronews is a multilingual news media service, headquartered in Lyon, France.'
+                'title': 'Euronews'
               },
               {
-                'description': '',
+                'description': 'Roozame is a persian smart news media service',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Roozame روزامه� - Roozame is a persian smart news media service.'
+                'title': 'Roozame روزامه�'
               },
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2274,7 +2274,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2284,7 +2284,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2294,7 +2294,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2304,7 +2304,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2314,7 +2314,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2324,7 +2324,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2334,7 +2334,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2344,7 +2344,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2354,7 +2354,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2364,7 +2364,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2374,7 +2374,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2384,7 +2384,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2394,7 +2394,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2404,7 +2404,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2414,7 +2414,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2424,7 +2424,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2434,7 +2434,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2444,7 +2444,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2454,7 +2454,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2464,7 +2464,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2474,7 +2474,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2484,7 +2484,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2494,7 +2494,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2504,7 +2504,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2514,7 +2514,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2524,7 +2524,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2534,7 +2534,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2544,7 +2544,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2554,7 +2554,7 @@
               {
                 'description': '',
                 'link': '',
-                'parent': 'Projects',
+                'parent': 'projects',
                 'tags': [
                   'First tag',
                   'Second tag'
@@ -2568,944 +2568,944 @@
             'category': 'Components & Libraries',
             'items': [
               {
-                'description': '',
+                'description': 'Data table simplify',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuetable-2 - Data table simplify.'
+                'title': 'vuetable-2'
               },
               {
-                'description': '',
+                'description': 'Vue.js 2 grid components',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-tables-2 - Vue.js 2 grid components.'
+                'title': 'vue-tables-2'
               },
               {
-                'description': '',
+                'description': 'A vue.js server side component to create dynamic tables',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-datasource - A vue.js server side component to create dynamic tables.'
+                'title': 'vue-datasource'
               },
               {
-                'description': '',
+                'description': 'Vue adaptor for ag-Grid',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'ag-grid-vue - Vue adaptor for ag-Grid.'
+                'title': 'ag-grid-vue'
               },
               {
-                'description': '',
+                'description': 'Vue2.0 DataTables, based on element-ui',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-data-tables - Vue2.0 DataTables, based on element-ui.'
+                'title': 'vue-data-tables'
               },
               {
-                'description': '',
+                'description': 'Vue.js agnostic non-blocking notifications library',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-notifications - Vue.js agnostic non-blocking notifications library.'
+                'title': 'vue-notifications'
               },
               {
-                'description': '',
+                'description': 'A toast plugin for vue/vue2',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-easy-toast - A toast plugin for vue/vue2.'
+                'title': 'vue-easy-toast'
               },
               {
-                'description': '',
+                'description': 'Responsive Touch Compatible Toast plugin for VueJS',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-toasted - Responsive Touch Compatible Toast plugin for VueJS.'
+                'title': 'vue-toasted'
               },
               {
-                'description': '',
+                'description': 'Radial progress bar component for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-radial-progress - Radial progress bar component for Vue.js.'
+                'title': 'vue-radial-progress'
               },
               {
-                'description': '',
+                'description': 'A lightweight progress bar for vue',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-progressbar - A lightweight progress bar for vue.'
+                'title': 'vue-progressbar'
               },
               {
-                'description': '',
+                'description': 'Simplest Youtube Like Loading Bar Component For Vue 2',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue2-loading-bar - Simplest Youtube Like Loading Bar Component For Vue 2.'
+                'title': 'vue2-loading-bar'
               },
               {
-                'description': '',
+                'description': 'Yet another top progress loading bar component for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-top-progress - Yet another top progress loading bar component for Vue.js.'
+                'title': 'vue-top-progress'
               },
               {
-                'description': '',
+                'description': 'Progress bars is based on nprogress for Vue',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-nprogress - Progress bars is based on nprogress for Vue.'
+                'title': 'vue-nprogress'
               },
               {
-                'description': '',
+                'description': 'Easy tooltips with Vue 2.x',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'v-tooltip - Easy tooltips with Vue 2.x.'
+                'title': 'v-tooltip'
               },
               {
-                'description': '',
+                'description': 'Popper.js directive for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-popper-component - Popper.js directive for Vue.js.'
+                'title': 'vue-popper-component'
               },
               {
-                'description': '',
+                'description': 'A VueJS (2.x) Plugin for multiple modals windows with a single component instance',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuedals - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.'
+                'title': 'vuedals'
               },
               {
-                'description': '',
+                'description': 'The sweetest library to happen to modals. Now available for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'sweet-modal-vue - The sweetest library to happen to modals. Now available for Vue.js.'
+                'title': 'sweet-modal-vue'
               },
               {
-                'description': '',
+                'description': 'Scrolls a image slower than the window to create a neat optical effect',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-parallax - Scrolls a image slower than the window to create a neat optical effect.'
+                'title': 'vue-parallax'
               },
               {
-                'description': '',
+                'description': 'Vue.js component for parallax image scroll effects',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-parallaxy - Vue.js component for parallax image scroll effects.'
+                'title': 'vue-parallaxy'
               },
               {
-                'description': '',
+                'description': 'Webpack based - load only what you need - svg inline icons',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-icons - Webpack based - load only what you need - svg inline icons.'
+                'title': 'vue-icons'
               },
               {
-                'description': '',
+                'description': 'Font Awesome component for Vue.js, using inline SVG',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-awesome - Font Awesome component for Vue.js, using inline SVG.'
+                'title': 'vue-awesome'
               },
               {
-                'description': '',
+                'description': 'Side-nav',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-side-nav - Side-nav.'
+                'title': 'vue-side-nav'
               },
               {
-                'description': '',
+                'description': 'Slider Component of Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-easy-slider - Slider Component of Vue.js.'
+                'title': 'vue-easy-slider'
               },
               {
-                'description': '',
+                'description': 'A responsive carousel(namely slider or swiper) component for Vue.js v2.x+',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-l-carousel - A responsive carousel(namely slider or swiper) component for Vue.js v2.x+.'
+                'title': 'vue-l-carousel'
               },
               {
-                'description': '',
+                'description': 'Swiper(slide) component for Vue.js(1.x ~ 2.x)',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-awesome-swiper - Swiper(slide) component for Vue.js(1.x ~ 2.x).'
+                'title': 'vue-awesome-swiper'
               },
               {
-                'description': '',
+                'description': 'Vue Slider Component based on lory',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-lory - Vue Slider Component based on lory.'
+                'title': 'vue-lory'
               },
               {
-                'description': '',
+                'description': 'Vue component for Slick-carousel',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-slick - Vue component for Slick-carousel.'
+                'title': 'vue-slick'
               },
               {
-                'description': '',
+                'description': 'A Vue Component for Flickity.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-flickity - A Vue Component for Flickity.js.'
+                'title': 'vue-flickity'
               },
               {
-                'description': '',
+                'description': 'Vue Carousel 3D - Beautiful, flexible and touch supported 3D Carousel for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-carousel-3d - Vue Carousel 3D - Beautiful, flexible and touch supported 3D Carousel for Vue.js.'
+                'title': 'Vue Carousel 3D'
               },
               {
-                'description': '',
+                'description': 'A flexible, responsive, touch-friendly carousel for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-carousel - A flexible, responsive, touch-friendly carousel for Vue.js.'
+                'title': 'vue-carousel'
               },
               {
-                'description': '',
+                'description': 'VueJS component wrapping Morris.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-morris - VueJS component wrapping Morris.js.'
+                'title': 'vue-morris'
               },
               {
-                'description': '',
+                'description': 'Google Charts plugin for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-charts - Google Charts plugin for Vue.js.'
+                'title': 'vue-charts'
               },
               {
-                'description': '',
+                'description': 'Vue.js wrapper for Chart.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-chartjs - Vue.js wrapper for Chart.js.'
+                'title': 'vue-chartjs'
               },
               {
-                'description': '',
+                'description': 'Based on Vue2.0 wrapper for ChartJs',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'hchs-vue-charts - Based on Vue2.0 wrapper for ChartJs.'
+                'title': 'hchs-vue-charts'
               },
               {
-                'description': '',
+                'description': 'ECharts component for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-echarts - ECharts component for Vue.js.'
+                'title': 'vue-echarts'
               },
               {
-                'description': '',
+                'description': 'Simple, elegant spark lines for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuetrend - Simple, elegant spark lines for Vue.js.'
+                'title': 'vuetrend'
               },
               {
-                'description': '',
+                'description': 'Highcharts component for Vue',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-highcharts - Highcharts component for Vue.'
+                'title': 'vue-highcharts'
               },
               {
-                'description': '',
+                'description': 'Vue.js(v2.x+) component wrap for ECharts.js(v3.x+)',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-echarts-v3 - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).'
+                'title': 'vue-echarts-v3'
               },
               {
-                'description': '',
+                'description': 'A tiny timeago component for Vue',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-timeago - A tiny timeago component for Vue.'
+                'title': 'vue-timeago'
               },
               {
-                'description': '',
+                'description': 'Jalaali Moment.js filters for your Vue.js project',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-moment-jalaali - Jalaali Moment.js filters for your Vue.js project.'
+                'title': 'vue-moment-jalaali'
               },
               {
-                'description': '',
+                'description': 'Vue calendar fullCalendar. No jQuery required. Schedule events management',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-fullcalendar - Vue calendar fullCalendar. No jQuery required. Schedule events management.'
+                'title': 'vue-fullcalendar'
               },
               {
-                'description': '',
+                'description': 'A simple events calendar for Vue2, no dependencies except Vue2',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-event-calendar - A simple events calendar for Vue2, no dependencies except Vue2.'
+                'title': 'vue-event-calendar'
               },
               {
-                'description': '',
+                'description': 'Google maps component for vue with 2-way data binding',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue2-google-maps - Google maps component for vue with 2-way data binding.'
+                'title': 'vue2-google-maps'
               },
               {
-                'description': '',
+                'description': 'Vue 2 components for Leaflet maps',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue2-leaflet - Vue 2 components for Leaflet maps.'
+                'title': 'vue2-leaflet'
               },
               {
-                'description': '',
+                'description': 'A Vue 2.x component of easy-to-config music players with controls',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-aplayer - A Vue 2.x component of easy-to-config music players with controls.'
+                'title': 'vue-aplayer'
               },
               {
-                'description': '',
+                'description': 'An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-infinite-loading - An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0.'
+                'title': 'vue-infinite-loading'
               },
               {
-                'description': '',
+                'description': 'Infinite scroll component for Vue.js 2',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-mugen-scroll - Infinite scroll component for Vue.js 2.'
+                'title': 'vue-mugen-scroll'
               },
               {
-                'description': '',
+                'description': 'An infinite scroll directive for vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-infinite-scroll - An infinite scroll directive for vue.js.'
+                'title': 'vue-infinite-scroll'
               },
               {
-                'description': '',
+                'description': 'A Powerful and Highspeed Markdown Parser for Vue',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-markdown - A Powerful and Highspeed Markdown Parser for Vue.'
+                'title': 'vue-markdown'
               },
               {
-                'description': '',
+                'description': 'A JSON Tree View Component for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-json-tree-view - A JSON Tree View Component for Vue.js.'
+                'title': 'vue-json-tree-view'
               },
               {
-                'description': '',
+                'description': 'A Vue.js component for sharing links to social networks, work with Vue.js 1.X or 2.X',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-social-sharing - A Vue.js component for sharing links to social networks, work with Vue.js 1.X or 2.X.'
+                'title': 'vue-social-sharing'
               },
               {
-                'description': '',
+                'description': 'A Vue.js 2 component to draw QR codes on an HTML Canvas using qrious',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-qriously - A Vue.js 2 component to draw QR codes on an HTML Canvas using qrious.'
+                'title': 'vue-qriously'
               },
               {
-                'description': '',
+                'description': 'The directive of vue 2.x for qart.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-qart - The directive of vue 2.x for qart.js.'
+                'title': 'vue-qart'
               },
               {
-                'description': '',
+                'description': 'An avatar component for vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-avatar - An avatar component for vue.js.'
+                'title': 'vue-avatar'
               },
               {
-                'description': '',
+                'description': 'Touch ripple component for Vue.js(1.x ~ 2.x)',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-touch-ripple - Touch ripple component for Vue.js(1.x ~ 2.x).'
+                'title': 'vue-touch-ripple'
               },
               {
-                'description': '',
+                'description': 'Vue component that simulates a user typing, selecting, and erasing text',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-typer - Vue component that simulates a user typing, selecting, and erasing text.'
+                'title': 'vue-typer'
               },
               {
-                'description': '',
+                'description': 'Vue 2 virtual keyboard component',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-keyboard - Vue 2 virtual keyboard component.'
+                'title': 'vue-keyboard'
               },
               {
-                'description': '',
+                'description': 'Image comparison component, works with Vue.js 2.x',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-twentytwenty - Image comparison component, works with Vue.js 2.x'
+                'title': 'vue-twentytwenty'
               },
               {
-                'description': '',
+                'description': 'Cookie info plugin for Vue.js 2.x',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-cookie-law - Cookie info plugin for Vue.js 2.x'
+                'title': 'vue-cookie-law'
               },
               {
-                'description': '',
+                'description': 'Calendar and datepicker component with material design for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-datepicker - Calendar and datepicker component with material design for Vue.js.'
+                'title': 'vue-datepicker'
               },
               {
-                'description': '',
+                'description': 'A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue2-timepicker - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support.'
+                'title': 'vue2-timepicker'
               },
               {
-                'description': '',
+                'description': 'A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuejs-datepicker - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.'
+                'title': 'vuejs-datepicker'
               },
               {
-                'description': '',
+                'description': 'Flatpickr for VueJS',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-flatpickr - Flatpickr for VueJS.'
+                'title': 'vue-flatpickr'
               },
               {
-                'description': '',
+                'description': 'A native Vue.js component that provides similar functionality to Select2 without the overhead of jQuery',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-select - A native Vue.js component that provides similar functionality to Select2 without the overhead of jQuery.'
+                'title': 'vue-select'
               },
               {
-                'description': '',
+                'description': 'Universal select/multiselect/tagging component for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-multiselect - Universal select/multiselect/tagging component for Vue.js.'
+                'title': 'vue-multiselect'
               },
               {
-                'description': '',
+                'description': 'Slider for vue1.x and vue2.x',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-slider-component - Slider for vue1.x and vue2.x.'
+                'title': 'vue-slider-component'
               },
               {
-                'description': '',
+                'description': 'Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuedraggable - Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js.'
+                'title': 'vuedraggable'
               },
               {
-                'description': '',
+                'description': 'Drag and drop so simple it hurts',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-dragula - Drag and drop so simple it hurts.'
+                'title': 'vue-dragula'
               },
               {
-                'description': '',
+                'description': 'A sortable list directive with Vue',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'awe-dnd - A sortable list directive with Vue.'
+                'title': 'awe-dnd'
               },
               {
-                'description': '',
+                'description': 'Vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 applications',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-instant - Vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 applications.'
+                'title': 'vue-instant'
               },
               {
-                'description': '',
+                'description': 'A tags input component based on Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-tagsinput - A tags input component based on Vue.js.'
+                'title': 'vue-tagsinput'
               },
               {
-                'description': '',
+                'description': 'Vue.js 2.0 Input Tag Component',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-input-tag - Vue.js 2.0 Input Tag Component.'
+                'title': 'vue-input-tag'
               },
               {
-                'description': '',
+                'description': 'A flexible, highly available district picker for picking provinces, cities and districts of China for Vue.js 2.x',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'v-distpicker A flexible, highly available district picker for picking provinces, cities and districts of China for Vue.js 2.x.'
+                'title': 'v-distpicker '
               },
               {
-                'description': '',
+                'description': 'Vue Color Pickers for Sketch, Photoshop, Chrome & more',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-color - Vue Color Pickers for Sketch, Photoshop, Chrome & more.'
+                'title': 'vue-color'
               },
               {
-                'description': '',
+                'description': 'An on/off switch component for Vue.js with theme support',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-switches - An on/off switch component for Vue.js with theme support.'
+                'title': 'vue-switches'
               },
               {
-                'description': '',
+                'description': 'Masked input component for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-masked-input - Masked input component for Vue.js.'
+                'title': 'vue-masked-input'
               },
               {
-                'description': '',
+                'description': 'Input mask for React, Angular, Ember, Vue, & plain JavaScript',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-text-mask - Input mask for React, Angular, Ember, Vue, & plain JavaScript.'
+                'title': 'vue-text-mask'
               },
               {
-                'description': '',
+                'description': 'An ip input implemented by Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-ip-input - An ip input implemented by vuejs.'
+                'title': 'vue-ip-input'
               },
               {
-                'description': '',
+                'description': 'Input field component to display currency value based on Vue',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-numeric - Input field component to display currency value based on Vue.'
+                'title': 'vue-numeric'
               },
               {
-                'description': '',
+                'description': 'Quill editor component for Vue2',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-quill-editor - Quill editor component for Vue2.'
+                'title': 'vue-quill-editor'
               },
               {
-                'description': '',
+                'description': 'A mobiledoc editor component toolkit for Vuejs',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-mobiledoc-editor - A mobiledoc editor component toolkit for Vuejs.'
+                'title': 'vue-mobiledoc-editor'
               },
               {
-                'description': '',
+                'description': 'A MediumEditor component for Vue 2',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue2-medium-editor - A MediumEditor component for Vue 2.'
+                'title': 'vue2-medium-editor'
               },
               {
-                'description': '',
+                'description': 'VueJS wrapper for Froala Editor',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-froala - VueJS wrapper for Froala Editor.'
+                'title': 'vue-froala'
               },
               {
-                'description': '',
+                'description': 'A vue plugin for image to crop and upload',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-core-image-upload - A vue plugin for image to crop and upload.'
+                'title': 'vue-core-image-upload'
               },
               {
-                'description': '',
+                'description': 'Simple and hackable file uploader for VueJs. Supports Vue >= 2.1',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-clip - Simple and hackable file uploader for VueJs. Supports Vue >= 2.1.'
+                'title': 'vue-clip'
               },
               {
-                'description': '',
+                'description': 'Simple File upload component for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-simple-upload - Simple File upload component for Vue.js.'
+                'title': 'vue-simple-upload'
               },
               {
-                'description': '',
+                'description': 'A context menu component for vue js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-context-menu - A context menu component for vue js.'
+                'title': 'vue-context-menu'
               },
               {
-                'description': '',
+                'description': 'Search places and address using Google Maps API',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-gmaps - Search places and address using Google Maps API.'
+                'title': 'vue-gmaps'
               },
               {
-                'description': '',
+                'description': 'A component for rendering Vue components with live editor and preview',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuep - A component for rendering Vue components with live editor and preview.'
+                'title': 'vuep'
               },
               {
-                'description': '',
+                'description': 'Places component is based on places.js for Vue 2.x. Turn any input into an address autocomplete',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-places - Places component is based on places.js for Vue 2.x. Turn any input into an address autocomplete.'
+                'title': 'vue-places'
               },
               {
-                'description': '',
+                'description': 'Password strength meter based on zxcvbn in vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-password-strength-meter - Password strength meter based on zxcvbn in vue.js.'
+                'title': 'vue-password-strength-meter'
               },
               {
-                'description': '',
+                'description': 'Float label pattern for Vue.js',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-float-label - Float label pattern for Vue.js.'
+                'title': 'vue-float-label'
               },
               {
-                'description': '',
+                'description': 'A VueJS (2.x) button component that requires you to keep pressing to confirm a given action',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-longpress - A VueJS (2.x) button component that requires you to keep pressing to confirm a given action.'
+                'title': 'vue-longpress'
               },
               {
-                'description': '',
+                'description': 'Embed component is based on embed.js for Vue 2.x, a component that embeds emojis, media, maps, tweets, gists, code, services and markdown',
                 'link': '',
-                'parent': 'Components & Libraries',
+                'parent': 'components',
                 'tags': [
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-embed - Embed component is based on embed.js for Vue 2.x, a component that embeds emojis, media, maps, tweets, gists, code, services and markdown.'
+                'title': 'vue-embed'
               }
             ],
             'shortname': 'components'
@@ -3823,7 +3823,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Vue Viewports - '
+                'title': 'Vue Viewports'
               },
               {
                 'description': 'Vue.js(2.x) directive to hide/show HTML-elements with the Bootstrap 4, 3 or self defined breakpoints',
@@ -3943,7 +3943,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Vue Chat Scroll - '
+                'title': 'Vue Chat Scroll'
               },
               {
                 'description': 'Adds a directive that listens for click events and scrolls to elements',
@@ -3983,7 +3983,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Vue Lazy Background Images - '
+                'title': 'Vue Lazy Background Images'
               },
               {
                 'description': 'Vue progressive image loading plugin',
@@ -4093,7 +4093,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-dom-portal - An escape hatch for DOM Elements in Vue.js components.'
+                'title': 'vue-dom-portal - An escape hatch for DOM Elements in Vue.js components'
               },
               {
                 'description': '',
@@ -4103,7 +4103,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue2-filters - A collection of standard filters Vue 1.* adapted for use in Vue 2.*.'
+                'title': 'vue2-filters - A collection of standard filters Vue 1.* adapted for use in Vue 2.*'
               },
               {
                 'description': '',
@@ -4113,7 +4113,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-svgicon - A tool to create svg icon components. (vue 2.x).'
+                'title': 'vue-svgicon - A tool to create svg icon components. (vue 2.x)'
               },
               {
                 'description': '',
@@ -4123,7 +4123,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-resource-progressbar-interceptor - Interceptor that ties a progressbar to all requests, that it is clear that something is loading.'
+                'title': 'vue-resource-progressbar-interceptor - Interceptor that ties a progressbar to all requests, that it is clear that something is loading'
               },
               {
                 'description': '',
@@ -4133,7 +4133,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-images-loaded - Vue.js 2.0 directive to detect images loading.'
+                'title': 'vue-images-loaded - Vue.js 2.0 directive to detect images loading'
               },
               {
                 'description': 'A v-visible directive for VueJS (2.x), like v-show but for visibility',
@@ -4199,7 +4199,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-typescript-import-dts - TypeScript declaration file that allows using \'import\' with .vue files.'
+                'title': 'vue-typescript-import-dts - TypeScript declaration file that allows using \'import\' with .vue files'
               },
               {
                 'description': 'Type-check your script in your vue-loader',
@@ -4309,7 +4309,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-events - Simple event handling for Vue.js.'
+                'title': 'vue-events - Simple event handling for Vue.js'
               },
               {
                 'description': '',
@@ -4319,7 +4319,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-event-handler - Event handling plugin for VueJS.'
+                'title': 'vue-event-handler - Event handling plugin for VueJS'
               },
               {
                 'description': '',
@@ -4329,7 +4329,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-localstorage - Vue.js localStorage plugin with types support.'
+                'title': 'vue-localstorage - Vue.js localStorage plugin with types support'
               },
               {
                 'description': '',
@@ -4339,7 +4339,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-ls - Vue plugin for work with LocalStorage from Vue context.'
+                'title': 'vue-ls - Vue plugin for work with LocalStorage from Vue context'
               },
               {
                 'description': '',
@@ -4349,7 +4349,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuex - Centralized State Management for Vue.js.'
+                'title': 'vuex - Centralized State Management for Vue.js'
               },
               {
                 'description': '',
@@ -4359,7 +4359,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-sync - Synchronize Vue State with the Browser URL, Server Backend, and other endpoints.'
+                'title': 'vue-sync - Synchronize Vue State with the Browser URL, Server Backend, and other endpoints'
               },
               {
                 'description': '',
@@ -4369,7 +4369,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'revue - Redux binding for Vue.'
+                'title': 'revue - Redux binding for Vue'
               },
               {
                 'description': '',
@@ -4379,7 +4379,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuedeux - Binding Solutions for Vue & Redux.'
+                'title': 'vuedeux - Binding Solutions for Vue & Redux'
               },
               {
                 'description': '',
@@ -4399,7 +4399,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuex-persistedstate - Persist Vuex state with localStorage.'
+                'title': 'vuex-persistedstate - Persist Vuex state with localStorage'
               },
               {
                 'description': '',
@@ -4409,7 +4409,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuex-plugin-jsdata - A plugin for syncing Vuex store with js-data.'
+                'title': 'vuex-plugin-jsdata - A plugin for syncing Vuex store with js-data'
               },
               {
                 'description': '',
@@ -4419,7 +4419,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuex-local - Local state management within Vuex.'
+                'title': 'vuex-local - Local state management within Vuex'
               },
               {
                 'description': '',
@@ -4429,7 +4429,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuex-action - Utilities for vuex to easily create and manage actions.'
+                'title': 'vuex-action - Utilities for vuex to easily create and manage actions'
               },
               {
                 'description': '',
@@ -4439,7 +4439,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuex-rest-api - A Helper utility to simplify the usage of REST APIs with Vuex. Based on axios.'
+                'title': 'vuex-rest-api - A Helper utility to simplify the usage of REST APIs with Vuex. Based on axios'
               },
               {
                 'description': '',
@@ -4449,7 +4449,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuex-cache - A Vuex plugin utility to cache action those will make remote request.'
+                'title': 'vuex-cache - A Vuex plugin utility to cache action those will make remote request'
               },
               {
                 'description': '',
@@ -4459,7 +4459,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuex-basement - Vuex state persistance and synchronization between tabs/windows.'
+                'title': 'vuex-basement - Vuex state persistance and synchronization between tabs/windows'
               },
               {
                 'description': '',
@@ -4469,7 +4469,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vuex-shared-mutations - Share vuex mutations between tabs/windows.'
+                'title': 'vuex-shared-mutations - Share vuex mutations between tabs/windows'
               },
               {
                 'description': '',
@@ -4479,7 +4479,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-types - Vue Prop Types definitions.'
+                'title': 'vue-types - Vue Prop Types definitions'
               },
               {
                 'description': '',
@@ -4489,7 +4489,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-factory - A simple factory/provider extension for Vue.js, like services in Angular.'
+                'title': 'vue-factory - A simple factory/provider extension for Vue.js, like services in Angular'
               },
               {
                 'description': '',
@@ -4499,7 +4499,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'eslint-plugin-vue - Eslint plugin for vue.js projects.'
+                'title': 'eslint-plugin-vue - Eslint plugin for vue.js projects'
               },
               {
                 'description': '',
@@ -4509,7 +4509,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-decorators - Decorators for VueJS (beta).'
+                'title': 'vue-decorators - Decorators for VueJS (beta)'
               },
               {
                 'description': '',
@@ -4519,7 +4519,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-bem-cn - Simple BEM class name generator for Vue.JS.'
+                'title': 'vue-bem-cn - Simple BEM class name generator for Vue.JS'
               },
               {
                 'description': '',
@@ -4529,7 +4529,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-script2 - Standardized, designer-friendly script tag behavior for your Single Page App.'
+                'title': 'vue-script2 - Standardized, designer-friendly script tag behavior for your Single Page App'
               },
               {
                 'description': '',
@@ -4539,7 +4539,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-loader - Webpack loader for Vue.js components.'
+                'title': 'vue-loader - Webpack loader for Vue.js components'
               },
               {
                 'description': '',
@@ -4549,7 +4549,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vueify - Browserify transform for single-file Vue components.'
+                'title': 'vueify - Browserify transform for single-file Vue components'
               },
               {
                 'description': '',
@@ -4559,7 +4559,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'vue-compiler - A simple cli wrapper around the vue-component-compiler.'
+                'title': 'vue-compiler - A simple CLI wrapper around the vue-component-compiler'
               },
               {
                 'description': 'Adds support to Brunch for pre-compiling single file Vue components',
@@ -4813,247 +4813,152 @@
           {
             'category': 'Dev Tools',
             'items': [
-              {
-                'description': 'A small development server for building vue components',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue Dev Server'
-              },
-              {
-                'description': 'Chrome devtools extension for debugging Vue.js applications',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue.js Devtools'
-              },
-              {
-                'description': 'Visualization and debugging tool built for Vue.js',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'DejaVue'
-              },
-              {
-                'description': 'Convert Markdown file to Vue Component',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue Markdown Loader'
-              },
-              {
-                'description': 'A minimalistic framework for demonstrating your Vue components',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue Play'
-              },
-              {
-                'description': 'React inspired style guide generator for Vue.js',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue Styleguide Generator'
-              },
-              {
-                'description': 'A Vue.js testing utility library',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Avoriaz'
-              },
-              {
-                'description': 'A simple dependency injection library for Vue 2',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue Container'
-              },
-              {
-                'description': 'Vuegister (an acronym for vue-register) is a require hook for loading of the Vue.js single-file components (or .vue files)',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vuegister'
-              },
-              {
-                'description': 'Load vue components in node',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue Node'
-              },
-              {
-                'description': 'Vue component file syntax for Atom',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Language Vue@atom.io - '
-              },
-              {
-                'description': 'Adds syntax highlighting to Vue Component files in Atom',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Language Vue Component@atom.io'
-              },
-              {
-                'description': 'Vue.js 1.0+ autocomplete for Atom',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue Autocomplete@atom.io'
-              },
-              {
-                'description': 'Atom snippets for Vue component files',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue Snippets@atom.io'
-              },
-              {
-                'description': 'Auto compile vue file on save',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue Autocompile@atom.io'
-              },
-              {
-                'description': 'Sublime Text syntax highlighting for single-file Vue components',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue Syntax Highlight'
-              },
-              {
-                'description': 'Syntax Highligth for Vue.js components',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vim Vue'
-              },
-              {
-                'description': 'Vue tooling for VSCode',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vetur'
-              },
-              {
-                'description': 'Contains HTML Intellisense and code snippets for the Vue.js JavaScript library',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue Pack'
-              },
-              {
-                'description': 'Brackets extension for Vue.js',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Brackets Vue'
-              },
-              {
-                'description': 'Vue.js features for the Intellij Platform (WebStorm, RubyMine, Intellij, etc)',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue.js Plugin'
-              },
-              {
-                'description': '',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue.js support for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm & RubyMine – official Vue.js support by JetBrains'
-              },
-              {
-                'description': 'Emacs major mode for vue.js',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Vue Mode'
-              },
-              {
-                'description': 'Syntax files (modified or original) for katepart (kate, kwrite, kdevelop)',
-                'link': '',
-                'parent': 'Dev Tools',
-                'tags': [
-                  'First tag',
-                  'Second tag'
-                ],
-                'title': 'Kate Syntax Files - '
-              }
-            ],
+            {
+              description: "A small development server for building vue components",
+              link: "https://github.com/paulpflug/vue-dev-server",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue Dev Server"
+            },  {
+              description: "Chrome devtools extension for debugging Vue.js applications",
+              link: "https://github.com/vuejs/vue-devtools",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue.js Devtools"
+            },  {
+              description: "Visualization and debugging tool built for Vue.js",
+              link: "https://github.com/MiCottOn/DejaVue",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "DejaVue"
+            },  {
+              description: "Convert Markdown file to Vue Component",
+              link: "https://github.com/QingWei-Li/vue-markdown-loader",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue Markdown Loader"
+            },  {
+              description: "A minimalistic framework for demonstrating your Vue components",
+              link: "https://github.com/vue-play/vue-play",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue Play"
+            },  {
+              description: "React inspired style guide generator for Vue.js",
+              link: "https://github.com/shershen08/vue-styleguide-generator",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue Styleguide Generator"
+            },  {
+              description: "A Vue.js testing utility library",
+              link: "https://github.com/eddyerburgh/avoriaz",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Avoriaz"
+            },  {
+              description: "A simple dependency injection library for Vue 2",
+              link: "https://github.com/dealloc/vuec",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue Container"
+            },  {
+              description: "Vuegister (an acronym for vue-register) is a require hook for loading of the Vue.js single-file components (or .vue files)",
+              link: "https://github.com/iatsiuk/vuegister",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vuegister"
+            },  {
+              description: "Load vue components in node",
+              link: "https://github.com/knpwrs/vue-node",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue Node"
+            },  {
+              description: "Vue component file syntax for Atom",
+              link: "https://github.com/hedefalk/atom-vue",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Language Vue@atom.io"
+            },  {
+              description: "Adds syntax highlighting to Vue Component files in Atom",
+              link: "https://github.com/CYBAI/language-vue-component",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Language Vue Component@atom.io"
+            },  {
+              description: "Vue.js 1.0+ autocomplete for Atom",
+              link: "https://github.com/ealves-pt/atom-vue-autocomplete",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue Autocomplete@atom.io"
+            },  {
+              description: "Atom snippets for Vue component files",
+              link: "https://github.com/ealves-pt/atom-vue-snippets",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue Snippets@atom.io"
+            },  {
+              description: "Auto compile vue file on save",
+              link: "https://github.com/paulpflug/vue-autocompile",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue Autocompile@atom.io"
+            },  {
+              description: "Sublime Text syntax highlighting for single-file Vue components",
+              link: "https://github.com/vuejs/vue-syntax-highlight",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue Syntax Highlight"
+            },  {
+              description: "Syntax Highligth for Vue.js components",
+              link: "https://github.com/posva/vim-vue",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vim Vue"
+            },  {
+              description: "Vue tooling for VSCode",
+              link: "https://github.com/octref/vetur",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vetur"
+            },  {
+              description: "Contains HTML Intellisense and code snippets for the Vue.js JavaScript library",
+              link: "https://github.com/egoist/vuepack",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue Pack"
+            },  {
+              description: "Brackets extension for Vue.js",
+              link: "https://github.com/pandao/brackets-vue",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Brackets Vue"
+            },  {
+              description: "Vue.js features for the Intellij Platform (WebStorm, RubyMine, Intellij, etc)",
+              link: "https://github.com/postalservice14/vuejs-plugin",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue.js Plugin"
+            },  {
+              description: "Vue.js support for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm & RubyMine – official Vue.js support by JetBrains",
+              link: "https://github.com/JetBrains/intellij-plugins/tree/master/vuejs",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue.js support for WebStorm"
+            },  {
+              description: "Emacs major mode for vue.js",
+              link: "https://github.com/CodeFalling/vue-mode",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Vue Mode"
+            },  {
+              description: "Syntax files (modified or original) for katepart (kate, kwrite, kdevelop)",
+              link: "https://github.com/mtorromeo/kate-syntax-files",
+              parent: "Dev Tools",
+              tags: ["First tag", "Second tag"],
+              title: "Kate Syntax Files"
+            }
+          ],
             'shortname': 'devtools'
           },
           {
@@ -5067,7 +4972,7 @@
                   'First tag',
                   'Second tag'
                 ],
-                'title': 'Vue Cli'
+                'title': 'Vue CLI'
               },
               {
                 'description': 'Boilerplate for Vue.js plugin',
