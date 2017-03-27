@@ -14,14 +14,14 @@
             <ul class="link-group">
               <li><router-link to="/components" active-class="active" exact>Components & Libraries (94)</router-link></li>
               <li><router-link to="/devtools" active-class="active" exact>Dev Tools (24)</router-link></li>
-              <!-- <li><router-link to="/frameworks" active-class="active" exact>Frameworks (16)</router-link></li> -->
+              <li><router-link to="/frameworks" active-class="active" exact>Frameworks (16)</router-link></li>
               <li><router-link to="/integrations" active-class="active" exact>Integrations (18)</router-link></li>
               <li><router-link to="/projects" active-class="active" exact>Projects (114)</router-link></li>
               <li><router-link to="/resources" active-class="active" exact>Resources (137)</router-link></li>
-              <!-- <li><router-link to="/uilayouts" active-class="active" exact>UI Layouts (7)</router-link></li> -->
+              <li><router-link to="/uilayouts" active-class="active" exact>UI Layouts (7)</router-link></li>
               <li><router-link to="/uiutilities" active-class="active" exact>UI Utilities (39)</router-link></li>
               <li><router-link to="/utilities" active-class="active" exact>Utilities (47)</router-link></li>
-              <!-- <li><router-link to="/scaffold" active-class="active" exact>Scaffold (14)</router-link></li> -->
+              <li><router-link to="/scaffold" active-class="active" exact>Scaffold (14)</router-link></li>
             </ul>
           </div>
         </div>
