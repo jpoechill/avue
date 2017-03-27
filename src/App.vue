@@ -4,23 +4,26 @@
       <div class="row">
         <div class="col-md-12 title">
           AWESOMEVUE
-          <hr>
         </div>
       </div>
-      <div class="row">
-        <div class="col-md-12 link-parent">
-          <ul class="link-group">
-            <li><strong>Resources</strong></li>
-            <li><a href="#">Projects</a></li>
-            <li><a href="#">Components & Library</a></li>
-            <li><a href="#">UI Layout</a></li>
-            <li><a href="#">Frameworks</a></li>
-            <li><a href="#">UI Utilities</a></li>
-            <li><a href="#">Utilities</a></li>
-            <li><a href="#">Integrations</a></li>
-            <li><a href="#">Dev Tools</a></li>
-            <li><a href="#">Scaffold</a></li>
-          </ul>
+    </div>
+    <div class="container" style="background-color: white; width: 100%; margin-bottom: 10px; box-shadow: 0px 3px 6px rgba(20, 20, 20, .06);">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 link-parent">
+            <ul class="link-group">
+              <li><router-link to="/components" active-class="active" exact>Components & Libraries</router-link></li>
+              <li><router-link to="/devtools" active-class="active" exact>Dev Tools</router-link></li>
+              <li><router-link to="/frameworks" active-class="active" exact>Frameworks</router-link></li>
+              <li><router-link to="/integrations" active-class="active" exact>Integrations</router-link></li>
+              <li><router-link to="/projects" active-class="active" exact>Projects</router-link></li>
+              <li><router-link to="/resources" active-class="active" exact>Resources</router-link></li>
+              <li><router-link to="/uilayouts" active-class="active" exact>UI Layouts</router-link></li>
+              <li><router-link to="/uiutilities" active-class="active" exact>UI Utilities</router-link></li>
+              <li><router-link to="/utilities" active-class="active" exact>Utilities</router-link></li>
+              <li><router-link to="/scaffold" active-class="active" exact>Scaffold</router-link></li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
@@ -42,18 +45,18 @@ export default {
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  /*font-family: 'Avenir', Helvetica, Arial, sans-serif;*/
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  /*color: #2c3e50;*/
   margin-top: 20px;
   text-align: left;
 }
 
 .title {
   font-family: "Montserrat";
-  font-weight: 700;
+  font-weight: 800;
   color: #333;
   font-size: 80px;
   line-height: 80px;
@@ -67,7 +70,7 @@ export default {
 }
 
 .link-parent {
-  padding-bottom: 10px;
+  padding-bottom: 6px;
 }
 
 .link-group {
@@ -80,20 +83,22 @@ export default {
 }
 
 li {
+  font-size: 15px;
   position: relative;
   float: left;
   display:block;
   white-space: normal;
-  font-weight: 400;
-  padding-right: 8px;
+  font-weight: 500;
+  margin-right: 6px;
 }
 
 li, a {
   color: #333;
 }
 
-li:hover {
+li > a:hover {
   position: relative;
+  /*color: #FFF;*/
 }
 
 hr {
@@ -104,28 +109,86 @@ hr {
 }
 
 body {
-  height: 100%;
-  background: #ffa800;
-  background: -moz-spannear-gradient(-45deg, #ffa800 0%, #ea3f60 100%);
-  background: -webkit-spannear-gradient(-45deg, #ffa800 0%,#ea3f60 100%);
-  background: linear-gradient(135deg, #ffa800 0%,#ea3f60 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffa800', endColorstr='#ea3f60',GradientType=1 );
+  height: auto;
+  /*transition: background 4s;*/
+  /*min-height: 100vh;*/
+  background: #F98B1A;
+  background: -moz-spannear-gradient(-45deg, #F98B1A 0%, #EF5A48 100%);
+  background: -webkit-spannear-gradient(-45deg, #F98B1A 0%,#EF5A48 100%);
+  background: linear-gradient(90deg, #F98B1A 0%,#EF5A48 100%);
+  /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F98B1A', endColorstr='#ea3f60',GradientType=1 );*/
 }
 
 /* unvisited spannk */
 item-box > a:link {
   font-weight: 600;
-  color: #7B1C99;
+  color: #FFF;
+}
+
+strong {
+  font-weight: 700;
 }
 
 /* visited spannk */
 a:visited {
+  text-decoration: none;
   color: #333;
+}
+
+a:active {
+  /*text-decoration: none;*/
+  color: blue;
 }
 
 /* mouse over spannk */
 a:hover {
+  /*text-decoration: none;*/
   color: #333;
+}
+
+.active {
+  text-decoration: none !important;
+  font-weight: 900;
+  /*font-size: 100px;*/
+}
+
+.fadein {
+    -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 1s; /* Firefox < 16 */
+        -ms-animation: fadein 1s; /* Internet Explorer */
+         -o-animation: fadein 1s; /* Opera < 12.1 */
+            animation: fadein 1s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity 1s
+}
+
+.fade-enter, .fade-leave-to /* .fade-leave-active in <2.1.8 */ {
+  opacity: 0
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
 }
 
 .footer {
